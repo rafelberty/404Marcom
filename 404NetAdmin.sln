@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "404MarcomE", "http://localhost/404MarcomE", "{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}"
+	ProjectSection(WebsiteProperties) = preProject
+		Frontpage = "false"
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/404Marcom"
+		Debug.AspNetCompiler.PhysicalPath = "..\404Admin\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\404Marcom\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/404Marcom"
+		Release.AspNetCompiler.PhysicalPath = "..\404Admin\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\404Marcom\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\404Admin\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Release|.NET = Release|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}.Debug|.NET.Build.0 = Debug|Any CPU
+		{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}.Debug|.NET.Deploy.0 = Debug|Any CPU
+		{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{8105E48A-221D-4D5C-98F7-4ECD8DA84DAF}.Release|.NET.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
